@@ -185,7 +185,7 @@ const MySpacePage = () => {
 
 
   // Hardcoded password (you can move this to backend later)
-  const correctPassword = "1234";
+  const correctPassword = "9347640227";
 
   const handlePasswordSubmit = (e) => {
     e.preventDefault();
